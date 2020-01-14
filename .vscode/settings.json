@@ -7,6 +7,11 @@
             "isActive": false,
             "isConnected": false,
             "name": "Django_girls"
+        },
+        {
+            "database": "${workspaceFolder}\\db.sqlite3",
+            "dialect": "SQLite",
+            "name": "sdas"
         }
     ]
 }
